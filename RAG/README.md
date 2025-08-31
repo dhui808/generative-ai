@@ -26,5 +26,5 @@
 https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/retrieval-augmented-generation
 
 ### RAG references
-![RAG explained](https://www.machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation/)
-![GeeksForGeeks](https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag/)
+[RAG explained](https://www.machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation/)
+[GeeksForGeeks](https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag/)
