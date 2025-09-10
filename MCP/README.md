@@ -1,3 +1,3 @@
-MCP Components
+### MCP Components
 
-![MCP Components](imanges/mcp_components.png)
+![MCP Components](images/mcp_components.png)
