@@ -63,11 +63,12 @@ def call_chat(question):
         stream=False
     )
     
-    json_string = completion.to_json()
-    json_object = json.loads(json_string)
-    content = json_object["choices"][0]["message"]["content"]
+    #json_string = completion.to_json()
+    #json_object = json.loads(json_string)
+    #content = json_object["choices"][0]["message"]["content"]
 
-    print("A:" + content)
+    #print("A:" + content)
+    print("A:" + completion.choices[0].message.content)
 
 while True:
     user_input = input("Q: ")
